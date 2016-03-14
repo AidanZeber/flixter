@@ -43,3 +43,7 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+# use Rails 12 Factor Gem 
+gem 'rails_12factor', group: :production
+
