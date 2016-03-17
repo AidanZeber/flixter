@@ -54,4 +54,7 @@ gem 'sprockets', '2.11.0'
 #use Devise gem for user authentication
 gem 'devise'
 
+#use simple form gem for creating form
+gem 'simple_form'
+
 
